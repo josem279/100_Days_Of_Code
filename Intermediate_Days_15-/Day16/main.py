@@ -4,7 +4,7 @@
 ################## Intro to OOP
 # from turtle import Turtle, Screen
 
-# # Class constuctor
+# # Creating a class instance
 # timmy = Turtle()
 # print(timmy)
 
@@ -54,7 +54,6 @@ while is_on:
         drink = menu.find_drink(choice)
         if coffee_maker.is_resource_sufficient(drink) and money_machine.make_payment(drink.cost):
             coffee_maker.make_coffee(drink)
-
 
 
 
