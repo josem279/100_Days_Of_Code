@@ -1,8 +1,5 @@
 # Specific folders
-marketplace-100_Days_of_Code_-_The_Complete_Python_Pro_Bootcamp-9.zip
-.idea
-course.json
-tempCodeRunnerFile.py
+100Days_venv/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
