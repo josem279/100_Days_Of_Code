@@ -52,6 +52,7 @@ for _ in range(10):
     draw_row()
     turn()
 
+jose.hideturtle()
 
 screen = t.Screen()
 screen.exitonclick()
