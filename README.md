@@ -15,3 +15,4 @@
 | 25  | Creating a U.S. State guessing game                                     | Working with CSV Data and the Pandas Library                        |
 | 26  | Creating a program that returns the word as the NATO Phonetic alphabet  | List and Dictionary comprehension                                   |
 | 27  | Miles to KM Converter using Tkinter                                     | Working with Tkinter - buttons, labels, etc. - in GUI + args/kwargs |
+| 28  | Using Tkinter to create a Pomodoro Timer                                | More with Tkinter - dynamic typing and GUI work                     |
