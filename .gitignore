@@ -1,5 +1,6 @@
 # Specific folders
 100Days_venv/
+*.scala
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
