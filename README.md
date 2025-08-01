@@ -18,3 +18,4 @@
 | 28  | Using Tkinter to create a Pomodoro Timer                                | More with Tkinter - dynamic typing and GUI work                     |
 | 29  | Building a password manager GUI App                                     | More with Tkinter                                                   |
 | 30  | Upgrading the pw manager - adding error handling + search function      | Errors, Exceptions, and JSON data                                   |
+| 30  | Creating a Flash Card App                                               | Errors, Exceptions, and JSON data                                   |
