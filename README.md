@@ -4,7 +4,7 @@
 | --- | ----------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | 15  | Simple Coffee Machine                                                   | Local Development. Working with dicts, loops, and functions         |
 | 16  | Coffee Machine Project as a Class                                       | Intermediate OOP                                                    |
-| 17  | True or False Quiz Project                                              | More OOP the GUI                                                    |
+| 17  | True or False Trivia Quiz Project                                       | More OOP the GUI                                                    |
 | 18  | Beginning to use the Turtle GUI                                         | Beginning to work with the GUI                                      |
 | 19  | Turtle Racing Game                                                      | Creating multiple objects within the GUI                            |
 | 20  | Creating the Snake game pt.1                                            | Creating projects with classes and inheritance + the GUI            |
@@ -21,3 +21,4 @@
 | 31  | Creating a Flash Card App                                               | Errors, Exceptions, and JSON data                                   |
 | 32  | Creating an automatic birthday message sender                           | Working with smtplib and Google API                                 |
 | 33  | Creating an ISS (Int. Space Station) tracking app                       | Working with APIs                                                   |
+| 34  | Upgrading the trivia quiz with APIs + GUI                               | Intermediate work with APIs                                         |
