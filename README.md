@@ -21,4 +21,4 @@
 | 31  | Creating a Flash Card App                                               | Errors, Exceptions, and JSON data                                   |
 | 32  | Creating an automatic birthday message sender                           | Working with smtplib and Google API                                 |
 | 33  | Creating an ISS (Int. Space Station) tracking app                       | Working with APIs                                                   |
-| 34  | Upgrading the trivia quiz with APIs + GUI                               | Intermediate work with APIs                                         |
+| 34  | Building a rain alert application                                       | Working with APIs - learning API Authentiction                      |
