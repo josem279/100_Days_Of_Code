@@ -39,8 +39,7 @@ response = requests.post(
 )
 result = response.json()
 
-################### Start of Step 4 Solution ######################
-username = "a5e4303ef798beb154012cb04e6837b6"
+username = os.environ.get("SHEETY_USERNAME")
 projectName = "myWorkoutsTracker"
 sheetName = "workouts"
 

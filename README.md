@@ -26,3 +26,5 @@
 | 36  | Stock Alerting Application                    | Capstone project on APIs and GUI development                        |
 | 37  | Daily Habit Tracking Application              | Using advanced authentication methods + POST/PUT/DELETE requests    |
 | 38  | Exercise Traking App w/python + Google Sheets | Working with APIs                                                   |
+| 39  | Capstone Project Pt. 1 - Cheap Flight Finder  | Capstone work with APIs                                             |
+| 40  | Capstone Project Pt. 2 - Cheap Flight Finder  | Capstone work with APIs                                             |
