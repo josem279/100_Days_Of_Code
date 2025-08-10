@@ -28,3 +28,4 @@
 | 38  | Exercise Traking App w/python + Google Sheets | Working with APIs                                                   |
 | 39  | Capstone Project Pt. 1 - Cheap Flight Finder  | Capstone work with APIs                                             |
 | 40  | Capstone Project Pt. 2 - Cheap Flight Finder  | Capstone work with APIs                                             |
+| 41  | Movie Ranking Project                         | Web Foundations - Intro to HTML                                     |
