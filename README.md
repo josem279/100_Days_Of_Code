@@ -29,3 +29,4 @@
 | 39  | Capstone Project Pt. 1 - Cheap Flight Finder  | Capstone work with APIs                                             |
 | 40  | Capstone Project Pt. 2 - Cheap Flight Finder  | Capstone work with APIs                                             |
 | 41  | Movie Ranking Project                         | Web Foundations - Intro to HTML                                     |
+| 41  | Birthday Invite Website                       | Web Foundations - Intermediate HTML                                 |
