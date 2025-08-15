@@ -29,6 +29,7 @@
 | 39  | Capstone Project Pt. 1 - Cheap Flight Finder  | Capstone work with APIs                                             |
 | 40  | Capstone Project Pt. 2 - Cheap Flight Finder  | Capstone work with APIs                                             |
 | 41  | Movie Ranking Project                         | Web Foundations - Intro to HTML                                     |
-| 41  | Birthday Invite Website                       | Web Foundations - Intermediate HTML                                 |
-| 42  | Styling a colors website                      | Web Foundations - Intro to CSS                                      |
-| 43  | Styling a motivational poster website         | Web Foundations - Intermediate CSS                                  |
+| 42  | Birthday Invite Website                       | Web Foundations - Intermediate HTML                                 |
+| 43  | Styling a colors website                      | Web Foundations - Intro to CSS                                      |
+| 44  | Styling a motivational poster website         | Web Foundations - Intermediate CSS                                  |
+| 45  | Getting a list of top 100 movies ever         | Web Scraping with BeautifulSoup                                     |

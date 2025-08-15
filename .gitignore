@@ -1,6 +1,7 @@
 # Specific folders
 100Days_venv/
 *.scala
+alerts.py
 
 # API keys
 api_keys.py
