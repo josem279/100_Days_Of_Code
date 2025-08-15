@@ -33,3 +33,4 @@
 | 43  | Styling a colors website                      | Web Foundations - Intro to CSS                                      |
 | 44  | Styling a motivational poster website         | Web Foundations - Intermediate CSS                                  |
 | 45  | Getting a list of top 100 movies ever         | Web Scraping with BeautifulSoup                                     |
+| 46  | Creating a Spotify Playlist Time Machine      | Project using Auth + Scraping + APIs                                |
