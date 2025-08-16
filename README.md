@@ -34,3 +34,5 @@
 | 44  | Styling a motivational poster website         | Web Foundations - Intermediate CSS                                  |
 | 45  | Getting a list of top 100 movies ever         | Web Scraping with BeautifulSoup                                     |
 | 46  | Creating a Spotify Playlist Time Machine      | Project using Auth + Scraping + APIs                                |
+| 47  | Creating an Amazon Price Change Alert         | Web Scraping project                                                |
+| 48  | Creating a game playing bot                   | Working with Selenium                                               |
