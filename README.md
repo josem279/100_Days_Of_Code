@@ -36,3 +36,4 @@
 | 46  | Creating a Spotify Playlist Time Machine      | Project using Auth + Scraping + APIs                                |
 | 47  | Creating an Amazon Price Change Alert         | Web Scraping project                                                |
 | 48  | Creating a game playing bot                   | Working with Selenium                                               |
+| 49  | Creating an automated gym class planning app  | Working with Selenium                                               |
