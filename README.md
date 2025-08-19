@@ -38,3 +38,4 @@
 | 48  | Creating a game playing bot                   | Working with Selenium                                               |
 | 49  | Creating an automated gym class planning app  | Working with Selenium                                               |
 | 50  | Creating a fully automatic Tinder app         | Working with Selenium and APIs                                      |
+| 51  | Creating a complaint Twitter (X?) bot         | Working with Selenium and APIs                                      |
