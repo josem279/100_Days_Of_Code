@@ -37,3 +37,4 @@
 | 47  | Creating an Amazon Price Change Alert         | Web Scraping project                                                |
 | 48  | Creating a game playing bot                   | Working with Selenium                                               |
 | 49  | Creating an automated gym class planning app  | Working with Selenium                                               |
+| 50  | Creating a fully automatic Tinder app         | Working with Selenium and APIs                                      |
